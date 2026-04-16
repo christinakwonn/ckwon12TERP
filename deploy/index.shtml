@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Christina Kwon Deployment Page</title>
+    </head>
+
+    <body>
+        <h1>Deployment on Render</h1>
+            <li>
+                <ul>
+                    <li><strong>Name:</strong> Christina Kwon</li>
+
+                    <li>
+                    <strong>Github Location:</strong>
+                    <a href="https://github.com/christinakwonn/ckwon12TERP">https://github.com/christinakwonn/ckwon12TERP</a>
+                    </li>
+
+                    <li>
+                    <strong>Render Location:</strong>
+                    <a href="https://ckwon12terp.onrender.com">https://ckwon12terp.onrender.com</a>
+                    </li>
+
+                    <li>
+                    <strong>Clearing Database Movies:</strong>
+                    <a href="https://ckwon12terp.onrender.com/clearCollection">https://ckwon12terp.onrender.com/clearCollection</a>
+                    </li>
+
+                    <li>
+                    <strong>Inserting Movies:</strong>
+                    <a href="https://ckwon12terp.onrender.com/insertMovies">https://ckwon12terp.onrender.com/insertMovies</a>
+                    </li>
+
+
+                    <li>
+                    <strong>List Movies:</strong>
+                    <a href="https://ckwon12terp.onrender.com/listMovies">https://ckwon12terp.onrender.com/listMovies</a>
+                    </li>
+
+                </ul>
+            </li>
+
+    </body>
+</html>
